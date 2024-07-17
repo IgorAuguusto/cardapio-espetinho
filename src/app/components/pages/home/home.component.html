@@ -1,0 +1,16 @@
+<nav>
+    @for (category of categorys; track category) {
+        <a [attr.href]="'#' + category"> {{ category }} </a>
+    }
+</nav>
+<div class="container">
+    @for (category of categorys; track category) {
+        <h2 [id]="category"> {{ category }} </h2>
+        @for (subCategory of getUniqueSubCategories(category); track subCategory) {
+            <h3> {{ subCategory }} </h3>
+            @for (product of getProductsForSubCategory(category, subCategory); track product) {
+                <app-card [product]="product"/>
+            }
+        }
+    }
+</div>

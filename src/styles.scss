@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+//reset
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+:root {
+    --primary: #EB221E;
+    --primary-010: #BF3C39;
+
+    --white: #fff;
+
+    --grey: #9b9ba0;
+
+    --black: #332B2B;
+    --black-010: #403333;
+}
+
+body {
+    background-color: var(--black);
+}

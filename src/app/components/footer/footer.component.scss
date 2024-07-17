@@ -1,0 +1,17 @@
+:host {
+    footer { 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        height: 5vh;
+        width: 100%;
+ 
+        background-color: var(--primary);
+
+        a {
+            text-decoration: none;
+            color: var(--black);
+        }
+    }
+}

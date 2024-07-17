@@ -1,0 +1,67 @@
+[
+    {
+      "name": "Brahma",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/brahma300ml.jpg",
+      "price": "R$: 4,00",
+      "category": "Bebida",
+      "subcategory": "Litrinho"
+    },
+    {
+      "name": "Skol",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/skol300ml.png",
+      "price": "R$: 4,00",
+      "category": "Bebida",
+      "subcategory": "Litrinho"
+    },
+    {
+      "name": "Bohemia",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/bohemia300ml.jpg",
+      "price": "R$: 4,00",
+      "category": "Bebida",
+      "subcategory": "Litrinho"
+    },
+    {
+      "name": "Budweiser",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/bud300ml.png",
+      "price": "R$: 4,00",
+      "category": "Bebida",
+      "subcategory": "Litrinho"
+    },
+    {
+      "name": "Bohemia",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/bohemia300ml.jpg",
+      "price": "R$: 4,00",
+      "category": "Bebida",
+      "subcategory": "Litrinho"
+    },
+    {
+      "name": "Medalhão de Frango",
+      "description": "Assado na hora acompanha farofa e vinagrete",
+      "pathToImage": "assets/img/espetinhos/medalhaoFrango.png",
+      "price": "R$: 4,00",
+      "category": "Espetinho",
+      "subcategory": ""
+    },
+    {
+        "name": "Medalhão de Frango",
+        "description": "Assado na hora acompanha farofa e vinagrete",
+        "pathToImage": "assets/img/espetinhos/medalhaoFrango.png",
+        "price": "R$: 4,00",
+        "category": "Espetinho",
+        "subcategory": ""
+    },
+    {
+        "name": "Medalhão de Frango",
+        "description": "Assado na hora acompanha farofa e vinagrete",
+        "pathToImage": "assets/img/espetinhos/medalhaoFrango.png",
+        "price": "R$: 4,00",
+        "category": "Espetinho",
+        "subcategory": ""
+    }
+]
+  
