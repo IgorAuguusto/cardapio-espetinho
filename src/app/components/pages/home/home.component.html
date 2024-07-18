@@ -1,4 +1,4 @@
-<nav>
+<nav id="nav" [class.sticky]="sticky">
     @for (category of categorys; track category) {
         <a [attr.href]="'#' + category"> {{ category }} </a>
     }
@@ -6,11 +6,17 @@
 <div class="container">
     @for (category of categorys; track category) {
         <h2 [id]="category"> {{ category }} </h2>
-        @for (subCategory of getUniqueSubCategories(category); track subCategory) {
-            <h3> {{ subCategory }} </h3>
-            @for (product of getProductsForSubCategory(category, subCategory); track product) {
-                <app-card [product]="product"/>
+        <div class="card-container">
+            @for (subCategory of getUniqueSubCategories(category); track subCategory) {
+                <div class="sub-category">
+                    <h3> {{ subCategory }} </h3>
+                </div>
+                <div class="cards">
+                    @for (product of getProductsForSubcategories(category, subCategory); track product) {
+                        <app-card [product]="product"/>
+                    }
+                </div>
             }
-        }
+        </div>
     }
 </div>
