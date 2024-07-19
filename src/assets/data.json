@@ -5,7 +5,7 @@
       "pathToImage": "assets/img/litrinhos/brahma300ml.jpg",
       "price": "R$: 4,00",
       "category": "Bebidas",
-      "subcategory": "Litrinho"
+      "subcategory": "Litrinhos"
     },
     {
       "name": "Skol",
@@ -13,7 +13,7 @@
       "pathToImage": "assets/img/litrinhos/skol300ml.png",
       "price": "R$: 4,00",
       "category": "Bebidas",
-      "subcategory": "Litrinho"
+      "subcategory": "Litrinhos"
     },
     {
       "name": "Bohemia",
@@ -21,7 +21,7 @@
       "pathToImage": "assets/img/litrinhos/bohemia300ml.jpg",
       "price": "R$: 4,00",
       "category": "Bebidas",
-      "subcategory": "Litrinho"
+      "subcategory": "Litrinhos"
     },
     {
       "name": "Budweiser",
@@ -29,7 +29,7 @@
       "pathToImage": "assets/img/litrinhos/bud300ml.png",
       "price": "R$: 4,00",
       "category": "Bebidas",
-      "subcategory": "Litrinho"
+      "subcategory": "Litrinhos"
     },
     {
       "name": "Bohemia",
@@ -37,7 +37,7 @@
       "pathToImage": "assets/img/litrinhos/bohemia300ml.jpg",
       "price": "R$: 4,00",
       "category": "Bebidas",
-      "subcategory": "Litrinho"
+      "subcategory": "Litrinhos"
     },
     {
       "name": "Medalhão de Frango",
@@ -62,6 +62,54 @@
         "price": "R$: 4,00",
         "category": "Espetinhos",
         "subcategory": ""
+    },
+    {
+      "name": "Mocoto",
+      "description": "Caldo de mocoto pode acompanhar Torresmo",
+      "pathToImage": "assets/img/caldos/sopa.jpg",
+      "price": "R$: 10,00",
+      "category": "Caldos",
+      "subcategory": ""
+    },
+    {
+      "name": "Mocoto",
+      "description": "Caldo de mocoto pode acompanhar Torresmo",
+      "pathToImage": "assets/img/caldos/sopa.jpg",
+      "price": "R$: 10,00",
+      "category": "Caldos",
+      "subcategory": ""
+    },
+    {
+      "name": "Mocoto",
+      "description": "Caldo de mocoto pode acompanhar Torresmo",
+      "pathToImage": "assets/img/caldos/sopa.jpg",
+      "price": "R$: 10,00",
+      "category": "Caldos",
+      "subcategory": ""
+    },
+    {
+      "name": "Batata Friata",
+      "description": "Batata frita com bacon e chedar 300g",
+      "pathToImage": "assets/img/porcoes/batata.png",
+      "price": "R$: 10,00",
+      "category": "Porções",
+      "subcategory": ""
+    },
+    {
+      "name": "Batata Friata",
+      "description": "Batata frita com bacon e chedar 300g",
+      "pathToImage": "assets/img/porcoes/batata.png",
+      "price": "R$: 10,00",
+      "category": "Porções",
+      "subcategory": ""
+    },
+    {
+      "name": "Batata Friata",
+      "description": "Batata frita com bacon e chedar 300g",
+      "pathToImage": "assets/img/porcoes/batata.png",
+      "price": "R$: 10,00",
+      "category": "Porções",
+      "subcategory": ""
     }
 ]
   
