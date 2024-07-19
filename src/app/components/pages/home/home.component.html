@@ -1,3 +1,4 @@
+<app-header />
 <nav id="nav" [class.sticky]="sticky">
     @for (category of categorys; track category) {
         <a [attr.href]="'#' + category"> {{ category }} </a>
@@ -20,3 +21,4 @@
         </div>
     }
 </div>
+<app-footer />

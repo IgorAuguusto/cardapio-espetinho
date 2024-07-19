@@ -2,12 +2,16 @@ import { Component, HostListener, inject, OnInit } from '@angular/core';
 import { CardComponent } from '../../card/card.component';
 import { ProductsService } from '../../../shared/service/products.service';
 import { Product } from '../../../shared/interface/product.interface';
+import { HeaderComponent } from '../../header/header.component';
+import { FooterComponent } from '../../footer/footer.component';
 
 @Component({
   selector: 'app-home',
   standalone: true,
   imports: [
-    CardComponent
+    HeaderComponent,
+    CardComponent,
+    FooterComponent
   ],
   templateUrl: './home.component.html',
   styleUrls: ['./home.component.scss']
