@@ -1,0 +1,115 @@
+[
+    {
+      "name": "Brahma",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/brahma300ml.jpg",
+      "price": "R$: 4,00",
+      "category": "Bebidas",
+      "subcategory": "Litrinhos"
+    },
+    {
+      "name": "Skol",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/skol300ml.png",
+      "price": "R$: 4,00",
+      "category": "Bebidas",
+      "subcategory": "Litrinhos"
+    },
+    {
+      "name": "Bohemia",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/bohemia300ml.jpg",
+      "price": "R$: 4,00",
+      "category": "Bebidas",
+      "subcategory": "Litrinhos"
+    },
+    {
+      "name": "Budweiser",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/bud300ml.png",
+      "price": "R$: 4,00",
+      "category": "Bebidas",
+      "subcategory": "Litrinhos"
+    },
+    {
+      "name": "Bohemia",
+      "description": "Garrafa Vidro 300ml",
+      "pathToImage": "assets/img/litrinhos/bohemia300ml.jpg",
+      "price": "R$: 4,00",
+      "category": "Bebidas",
+      "subcategory": "Litrinhos"
+    },
+    {
+      "name": "Medalhão de Frango",
+      "description": "Assado na hora acompanha farofa e vinagrete",
+      "pathToImage": "assets/img/espetinhos/medalhaoFrango.png",
+      "price": "R$: 4,00",
+      "category": "Espetinhos",
+      "subcategory": ""
+    },
+    {
+        "name": "Medalhão de Frango",
+        "description": "Assado na hora acompanha farofa e vinagrete",
+        "pathToImage": "assets/img/espetinhos/medalhaoFrango.png",
+        "price": "R$: 4,00",
+        "category": "Espetinhos",
+        "subcategory": ""
+    },
+    {
+        "name": "Medalhão de Frango",
+        "description": "Assado na hora acompanha farofa e vinagrete",
+        "pathToImage": "assets/img/espetinhos/medalhaoFrango.png",
+        "price": "R$: 4,00",
+        "category": "Espetinhos",
+        "subcategory": ""
+    },
+    {
+      "name": "Mocoto",
+      "description": "Caldo de mocoto pode acompanhar Torresmo",
+      "pathToImage": "assets/img/caldos/sopa.jpg",
+      "price": "R$: 10,00",
+      "category": "Caldos",
+      "subcategory": ""
+    },
+    {
+      "name": "Mocoto",
+      "description": "Caldo de mocoto pode acompanhar Torresmo",
+      "pathToImage": "assets/img/caldos/sopa.jpg",
+      "price": "R$: 10,00",
+      "category": "Caldos",
+      "subcategory": ""
+    },
+    {
+      "name": "Mocoto",
+      "description": "Caldo de mocoto pode acompanhar Torresmo",
+      "pathToImage": "assets/img/caldos/sopa.jpg",
+      "price": "R$: 10,00",
+      "category": "Caldos",
+      "subcategory": ""
+    },
+    {
+      "name": "Batata Friata",
+      "description": "Batata frita com bacon e chedar 300g",
+      "pathToImage": "assets/img/porcoes/batata.png",
+      "price": "R$: 10,00",
+      "category": "Porções",
+      "subcategory": ""
+    },
+    {
+      "name": "Batata Friata",
+      "description": "Batata frita com bacon e chedar 300g",
+      "pathToImage": "assets/img/porcoes/batata.png",
+      "price": "R$: 10,00",
+      "category": "Porções",
+      "subcategory": ""
+    },
+    {
+      "name": "Batata Friata",
+      "description": "Batata frita com bacon e chedar 300g",
+      "pathToImage": "assets/img/porcoes/batata.png",
+      "price": "R$: 10,00",
+      "category": "Porções",
+      "subcategory": ""
+    }
+]
+  
